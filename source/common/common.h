@@ -23,3 +23,4 @@
 #endif // _WIN32
 
 #endif // BASEFRAMEWORK_COMMON_H_
+#define PI 3.1415926
