@@ -78,3 +78,5 @@ private:
 }
 
 #endif // BASEFRAMEWORK_THREADING_WRAPPER_H_
+#if 0
+#endif
